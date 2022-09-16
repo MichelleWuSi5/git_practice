@@ -1,0 +1,8 @@
+#List the file that do not need git to do version control
+
+#file
+secret.yml
+
+*.tmp
+
+
